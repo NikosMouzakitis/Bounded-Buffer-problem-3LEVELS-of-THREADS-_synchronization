@@ -3,10 +3,10 @@
 #define N 5
 #define M 6
 
-/*Implementation of storing an array thas has the most
-  of its values  zero,as a line that has the row,
-  column and value stored to it for each non-zero element
-  and then regenerating the array from the text file.
+/*Implementation of storing a sparse matrix,
+  as a line that has the row, column and value
+  stored to it for each non-zero element
+  and then regenerating the matrix from the text file.
 
   Mouzakitis Nikolaos,Crete 2016.
 
